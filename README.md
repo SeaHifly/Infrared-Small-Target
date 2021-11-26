@@ -9,6 +9,7 @@ It's not proper to demand all researchers to share the codes, but it's workable 
 More details about the dataset will be supplemented. 
 
 The dataset was first introduced in XXXXXXXXXXXXXX, if you think it's beneficial to you, please cite  XXXXXXXXXXX.
+Before we complete last paragraph, if you want to use our dataset in some papers, please contact us firstly.
 
 
 Any question will be welcomed!
