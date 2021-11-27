@@ -6,7 +6,7 @@ Images in training dataset or test dataset are picked out from 72 image sequence
 
 All images share a same size of 288×384 and the width or height of all targets are smaller than 16. We take birds, UAVs, helicopters, planes and aircrafts which can fly in a relatively far distance as infrared small targets.
 
-Each image in training dataset or  test dataset is paired with a same name txt file. For example, there is an image named "000003.png" in test dataset, then its paired txt file is "000003.txt". And the ground truth of target location is written in such txt files. 
+Each image in training dataset or  test dataset is paired with a same name txt file. For example, there is an image named "000003.png" in test dataset, then its paired txt file is "000003.txt" and the ground truth of target location is written in such txt files. 
 
 It's not proper to demand all researchers to share the codes, but it's workable for everyone to share their result in a common and same dataset.
 More details about the dataset will be supplemented. 
