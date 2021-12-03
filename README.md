@@ -1,4 +1,4 @@
-# Infrared-Small-Target
+# Infrared-Small-Target-A
 Here, we shared a infrared small target dataset and we wish it could be valuable for researchers all over the world.
 It may involve in some military application, but we wish it can be beneficial to some civilian use such as UAV or bird alarming in airports, birds migration monitoring or something else.
 
