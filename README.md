@@ -11,11 +11,10 @@ Each image in training dataset or  test dataset is paired with a same name txt f
 It's not proper to demand all researchers to share the codes, but it's workable for everyone to share their result in a common and same dataset.
 More details about the dataset will be supplemented. 
 
-The dataset was first introduced in XXXXXXXXXXXXXX, if you think it's beneficial to you, please consider citing  XXXXXXXXXXX.
-Before we complete last paragraph, if you want to use our dataset in some papers, please contact us firstly.
+The dataset was first introduced in XXXXXXXXXXXXXX, Some methods cited in this paper are not the official codes, so some evaluation values may be different from some papers. Anyone who possess the official codes and would like to share the results with us, please contact us. Any contribution will be welcomed, and we'd love to add your name in our paper before the last acceptance if we get your permission. 
 
-Some methods cited in XXXXXXX are not the official codes, so some evaluation values may be different from some papers. Anyone who possess the official codes and would like to share the results with us, please contact us. Any contribution will be welcomed, and we'd love to add your name in our paper before the last acceptance if we get your permission. 
-
+Before we complete the last paragraph, if you want to use our dataset in some papers, please contact us firstly.
+if you think it's beneficial to you, please consider citing  XXXXXXXXXXX.
 
 Any question and contributions will be welcomed!
 email : seahifly@hust.edu.cn
