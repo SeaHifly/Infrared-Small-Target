@@ -14,6 +14,8 @@ More details about the dataset will be supplemented.
 The dataset was first introduced in XXXXXXXXXXXXXX, if you think it's beneficial to you, please consider citing  XXXXXXXXXXX.
 Before we complete last paragraph, if you want to use our dataset in some papers, please contact us firstly.
 
+Some methods cited in XXXXXXX are not the official codes, so some evaluation values may be different from some papers. Anyone who possess the official codes and would like to share the results with us, please contact us. Any contribution will be welcomed, and we'd love to add your name in our paper before the last acceptance if we get your permission. 
 
-Any question will be welcomed!
+
+Any question and contributions will be welcomed!
 email : seahifly@hust.edu.cn
