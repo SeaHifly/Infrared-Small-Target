@@ -1,4 +1,11 @@
 # Infrared-Small-Target-A
+=====================================================================================================================
+
+Extended datasets with over 70K images will be released after the acceptance of our paper. 
+We will try our best to make it.
+(2022 08 03)
+
+=====================================================================================================================
 Here, we shared a infrared small target dataset and we wish it could be valuable for researchers all over the world.
 It may involve in some military application, but we wish it can be beneficial to some civilian use such as UAV or bird alarming in airports, birds migration monitoring or something else. We name this dataset as 'infrared small target-A ' dateset, simplified as 'IST-A' dataset.
 
