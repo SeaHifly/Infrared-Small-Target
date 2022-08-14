@@ -11,6 +11,10 @@ It may involve some military application, but we wish it can be beneficial to so
 
 The dataset IST-B mentioned in our paper can't be shared due to some special reasons.
 We are collecting more images with infrared small targets in the sky and more images with box labels may be released.
+
+
+
+Notes edited few month ago.
 =====================================================================================================================
 
 Images in the training dataset or test dataset are picked out from 72 image sequences in a sequential traversal style. The total number of original images is over 22K, but only 10117 training images and 2476 test images are picked out. For each sequence, only when the index of the current traversal image is 25 larger than the index of the last valid image or the SSIM between the current traversal image and the last valid image is smaller than 0.99 will be current traversal image treated as a valid image. The valid images will be randomly distributed to the training dataset or test dataset. Of course, the first image in each sequence will be treated as a valid image so the traversal processing can be implemented.
@@ -22,6 +26,7 @@ Each image in the training dataset or test dataset is paired with the same name 
 It's not proper to demand all researchers to share the codes, but it's workable for everyone to share their results in a common and same dataset.
 More details about the dataset will be supplemented. 
 
+=======================================================================================================================
 The dataset was first introduced in XXXXXXXXXXXXXX, Some methods cited in this paper are not the official codes, so some evaluation values may be different from some papers. Anyone who possesses the official codes and would like to share the results with us, please contact us. Any contribution will be welcomed, and we'd love to add your name to our paper before the last acceptance if we get your permission. 
 
 Before we complete the last paragraph, if you want to use our dataset in some papers, please contact us firstly.
