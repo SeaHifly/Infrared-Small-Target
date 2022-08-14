@@ -1,8 +1,8 @@
 # Infrared-Small-Target-A
 =====================================================================================================================
 
-Extended datasets with over 70K images will be released after the acceptance of our paper. 
-We will try our best to make it.
+Extended datasets with over 60K images will be released after the acceptance of our paper. 
+We will try our best to make it and release the dataset and codes as quickly as possible.
 (2022 08 03)
 
 =====================================================================================================================
@@ -24,4 +24,4 @@ Before we complete the last paragraph, if you want to use our dataset in some pa
 if you think it's beneficial to you, please consider citing  XXXXXXXXXXX.
 
 Any question and contributions will be welcomed!
-email : seahifly@hust.edu.cn
+email : seahifly@hust.edu.cn or xuhai_0513@foxmail.com
