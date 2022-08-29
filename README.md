@@ -2,9 +2,12 @@
 =====================================================================================================================
 Latest Information
 
+
+
 Extended dataset with over 60K (68311) images will be released after the acceptance of our paper. 
 We will try our best to make it and release the dataset and codes as quickly as possible.
 (2022 08 14)
+The original dataset has been removed from here. We will upload the extended dataset directly.
 
 Here, we shared an infrared small target dataset and we wish it could be valuable for researchers all over the world.
 It may involve some military application, but we wish it can be beneficial to some civilian use such as UAV or bird alarming in airports, bird migration monitoring, or something else. We name this dataset the 'infrared small target-A ' dataset, simplified as the 'IST-A' dataset.
