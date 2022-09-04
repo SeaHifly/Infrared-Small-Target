@@ -2,7 +2,8 @@
 =====================================================================================================================
 Latest Information
 
-
+I am sorry to remove all previous data because I don't want to receive too many letters inquiring about my experiment results or some other else. (20220904)
+Please wait and the release is coming.
 
 Extended dataset with over 60K (68311) images will be released after the acceptance of our paper. 
 We will try our best to make it and release the dataset and codes as quickly as possible.
