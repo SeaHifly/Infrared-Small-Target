@@ -2,6 +2,12 @@
 =====================================================================================================================
 Latest Information
 
+
+
+
+=====================================================================================================================
+Notes edited few month ago.
+
 I am sorry to remove all previous data because I don't want to receive too many letters inquiring about my experiment results or some other else. (20220904)
 Please wait and the release is coming.
 
@@ -18,8 +24,8 @@ We are collecting more images with infrared small targets in the sky and more im
 
 
 
-Notes edited few month ago.
-=====================================================================================================================
+
+
 
 Images in the training dataset or test dataset are picked out from 72 image sequences in a sequential traversal style. The total number of original images is over 22K, but only 10117 training images and 2476 test images are picked out. For each sequence, only when the index of the current traversal image is 25 larger than the index of the last valid image or the SSIM between the current traversal image and the last valid image is smaller than 0.99 will be current traversal image treated as a valid image. The valid images will be randomly distributed to the training dataset or test dataset. Of course, the first image in each sequence will be treated as a valid image so the traversal processing can be implemented.
 
