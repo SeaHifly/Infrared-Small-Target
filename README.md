@@ -1,12 +1,13 @@
 # Infrared-Small-Target-A
-=====================================================================================================================
+
 Latest Information
-
-
-
-
 =====================================================================================================================
+
+
+
+
 Notes edited few month ago.
+=====================================================================================================================
 
 I am sorry to remove all previous data because I don't want to receive too many letters inquiring about my experiment results or some other else. (20220904)
 Please wait and the release is coming.
