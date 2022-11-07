@@ -4,6 +4,7 @@ Latest Information
 =====================================================================================================================
 Test subset of IST-A has been uploaded.
 AllSeqs in MDvsFA[1] has been uploeaded. Only 9991 images are left.
+Training subset of IST-A and codes are coming.
 
 
 Ref:
