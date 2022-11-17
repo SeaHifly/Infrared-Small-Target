@@ -1,7 +1,0 @@
-
-AllSeqs is a dataset which was introduced in MDvsFA[1].
-
-There are 10000 images in AllSeqs. However, there are some broken images and lables. After relabelling some images, only 9991 images are left.
-
-
-[1]H Wang, L P Zhou, L Wang, Ieee. Miss Detection vs. False Alarm: Adversarial Learning for Small Object Segmentation in Infrared Images; proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV), Seoul, SOUTH KOREA, F Oct 27-Nov 02, 2019 [C]. 2019.
