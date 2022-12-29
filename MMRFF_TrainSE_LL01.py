@@ -20,7 +20,7 @@ eps = 1e-10
 
 
 def parse_args():
-    parser = argparse.ArgumentParser(description='Dense_Nested_Attention_Network_For_SIRST')
+    parser = argparse.ArgumentParser(description='MMRFF-Net')
     parser.add_argument('--th_v', type=float, default=0.5,
                         help='in the paper, 0.5 for speed evaluatiaon, 0.05 for AP3p25 evaluation for all regression based methods')
     parser.add_argument('--train_path', type=str, default=r'E:\XH_YOLO_SMALL\IST-E\train',
