@@ -40,7 +40,7 @@ def compute_ap(recall, precision):
 
 
 def parse_args():
-    parser = argparse.ArgumentParser(description='Dense_Nested_Attention_Network_For_SIRST')
+    parser = argparse.ArgumentParser(description='MMRFF-Net')
     parser.add_argument('--th_v', type=float, default=0.05,
                         help='in the paper, 0.5 for speed evaluatiaon, 0.05 for AP3p25 evaluation for all regression based methods')
     parser.add_argument('--test_path', type=str, default=r'E:\XH_YOLO_SMALL\IST-E\Test',
@@ -78,11 +78,7 @@ if __name__ == "__main__":
 
     # load test subset
     test_path = args.test_path  # data path
-    # test_path = r'F:\XH_New_InfraredSmall(未标记的数据还有定平台数据)\USB_U\saveData\I (10)\00001'
-    # test_path = r'E:\XH_YOLO_SMALL\IST-C'  # data path
     model_path = args.model_path  # exact model path in 'model_results', a file path which will be crated automatically for each training
-    # model_path = 'LD_SE_LG0511_SCL'  # LD_SE_LG0511_SCL的训练正常，表明测试过程并无异常，而是训练阶段出了什么问题
-    # model_path = '20220524165052'  # 回归损失的系数持平
     model_id = args.model_id  # model id to load, int
     # a model's full path can be presented as: os.path.join(model_load_path, 'model_' + str(model_id) + '.pkl')
 
