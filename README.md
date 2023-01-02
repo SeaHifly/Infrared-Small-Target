@@ -31,7 +31,7 @@ The followed settings should be changed according to your own machine:
 
 (5) 'train_path': the path of images to train. (Only during the training)
 
-Other settings are feasible. For example, you can increase the channels setting or change the batch size based on your own machine.
+Other settings are feasible and other settings like saving results or showing results will be easy to find.
 
 ----------------------------------------------------------------------------------------
 Other infomation will be supplemented if needed.
