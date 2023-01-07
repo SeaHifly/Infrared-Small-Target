@@ -4,14 +4,12 @@ Latest infomaition
 The datasets will be uploaded to another link. Some information about the datasets will be supplemented.
 (https://github.com/SeaHifly/IST-A)
 
-If you want to take the dataset for your own research or paper, please contact us. We will upload a version to the arxiv as quickly as possible so that one can cite it.
-
 If you find some errors, any corrections (including label failure, code errors and so on) will be welcomed.
 
+Our manuscript has not been accepted, if you have to adopt our dataset, you may just need to cite the website.
+
 email: 
-
 xuhai_0513@foxmail.com. (Choose this first, we will reply within a week.) 
-
 seahifly@hust.edu.cn
 
 --------------------------------------------------------------------------------
