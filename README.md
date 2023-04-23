@@ -34,6 +34,19 @@ Other settings are feasible and other settings like saving results or showing re
 ----------------------------------------------------------------------------------------
 Other infomation will be supplemented if needed.
 
+If you find the codes are helpful for your work, please cite the following paper:
+
+H. Xu, S. Zhong, T. Zhang and X. Zou, "Multi-scale Multi-level Residual Feature Fusion for Real-time Infrared Small Target Detection," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2023.3269092.
+
+@ARTICLE{10106465,
+  author={Xu, Hai and Zhong, Sheng and Zhang, Tianxu and Zou, Xu},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Multi-scale Multi-level Residual Feature Fusion for Real-time Infrared Small Target Detection}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TGRS.2023.3269092}}
 
 
 
