@@ -6,8 +6,6 @@ The datasets will be uploaded to another link. Some information about the datase
 
 If you find some errors, any corrections (including label failure, code errors and so on) will be welcomed.
 
-Our manuscript has not been accepted, if you have to adopt our dataset, you may just need to cite the website.
-
 email: 
 xuhai_0513@foxmail.com. (Choose this first, we will reply within a week.) 
 seahifly@hust.edu.cn
@@ -47,6 +45,7 @@ H. Xu, S. Zhong, T. Zhang and X. Zou, "Multi-scale Multi-level Residual Feature 
   number={},
   pages={1-1},
   doi={10.1109/TGRS.2023.3269092}}
+ 
 
 
 
