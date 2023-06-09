@@ -46,6 +46,7 @@ H. Xu, S. Zhong, T. Zhang and X. Zou, "Multi-scale Multi-level Residual Feature 
   pages={1-1},
   doi={10.1109/TGRS.2023.3269092}}
  
+----------------------------------------------------------------------------------------
+Other notes:
 
-
-
+(1) All speed evaluations in the paper are performed without any other speed promotion like onnx or tensorsort. 
