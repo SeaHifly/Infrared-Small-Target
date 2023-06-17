@@ -50,5 +50,7 @@ H. Xu, S. Zhong, T. Zhang and X. Zou, "Multi-scale Multi-level Residual Feature 
 Other notes:
 
 (1) All speed evaluations in the paper are performed without any other speed promotion like onnx or tensorsort. 
+
 (2) This method can only detect targets which are not larger than 16×16 because of some settings. We note that there are some other open-dataset recently. The larger targets may influence the model training. And it's difficult for us to achieve the same performance on IRSTD-1K.
+
 (3) We will train the model on some other open-datasets and present the performance on object-level based on the metrics of correspongding papers as quickly as possible. (We will only try on datasets which consists of images over 10k)
