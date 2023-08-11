@@ -46,7 +46,7 @@ avg_FPS=whole_count/whole_time (2)
 
 
 Then the speed of MDvsFA drops to only 5.8 FPS for 288×384 image processing, which is much more consistent with the large computation.
-After checking other speed values, the FPS values of other methods also drops by some. 
+After checking other speed values, the FPS values of other methods including ours also drops by some. 
 The corerction will be submitted to TGRS recently.
 (It doesn't influence most conclusion in the original paper, but some expression should be re-checked and revised thoughtfully.)
 
