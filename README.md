@@ -1,4 +1,38 @@
 ------------------------------------------------------------------------------
+Correction 20230811
+
+There are ridiculous errors in the speed evaluation of our paper. In the past, we choose to evaluate the speed by the following way:
+
+machine warm-up
+for:
+t1 = time.time()
+output = model(img)
+t2 = time.time()
+whole_time += (t2 - t1)
+whole_count += 1
+end
+avg_FPS=whole_count/whole_time (1)
+
+The speed valuation of MDvsFA by (1) is up to about 300 FPS. Although we used to doubt the results due to its acutual large computations and basic feeling.
+However, we choosed to believe the reults veritably and and no reviwers doubt and remind us before the last publication.
+Recently, we re-check the speed by the following way:
+
+machine warm-up
+t1 = time.time()
+for:
+output = model(img)
+whole_count += 1
+end
+t1 = time.time()
+whole_time += (t2 - t1)
+avg_FPS=whole_count/whole_time (2)
+
+Then the speed of MDvsFA drops to only 5.8 FPS for 288×384 image processing, which is much more consistent with the large computation.
+After checking other speed values, the FPS values of other methods also drops by some. 
+The corerction will be submitted to TGRS recently.
+(It doesn't influence most conclusion in the original paper, but some expression should be re-checked and revised thoughtfully.)
+
+------------------------------------------------------------------------------
 Latest infomaition
 
 The datasets will be uploaded to another link. Some information about the datasets will be supplemented.
