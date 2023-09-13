@@ -47,9 +47,11 @@ avg_FPS=whole_count/whole_time (2)
 
 Then the speed of MDvsFA drops to only 5.8 FPS for 288×384 image processing, which is much more consistent with the large computation.
 After checking other speed values, the FPS values of other methods including ours also drops by some. 
-The corerction will be submitted to TGRS recently.
+
 (It doesn't influence most conclusions in the original paper, but some expressions should be re-checked and revised thoughtfully.)
 
+The other concern is that we found that ridding of the computations of gird cells with low confidences in reggression branch doesn't increase the speed for large models on GPU if they are evaluated by (2).
+The corerction will be submitted to TGRS recently.
 ------------------------------------------------------------------------------
 Latest infomaition
 
