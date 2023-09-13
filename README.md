@@ -38,7 +38,7 @@ whole_count += 1
 
 end
 
-t1 = time.time()
+t2 = time.time()
 
 whole_time += (t2 - t1)
 
