@@ -51,7 +51,7 @@ After checking other speed values, the FPS values of other methods including our
 (It doesn't influence most conclusions in the original paper, but some expressions should be re-checked and revised thoughtfully.)
 
 The other concern is that we found that ridding of the computations of gird cells with low confidences in reggression branch doesn't increase the speed for large models on GPU if they are evaluated by (2).
-The corerction will be submitted to TGRS recently.
+The correction will be submitted to TGRS recently.
 ------------------------------------------------------------------------------
 Latest infomaition
 
